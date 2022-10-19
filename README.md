@@ -3,5 +3,5 @@
 A new Flutter project.
 
 ## Demo gif
-![](https://github.com/divyanshuverma72/flutter_complex_UI/blob/master/demo_gif.gif =250x250)
+![](https://github.com/divyanshuverma72/flutter_complex_UI/blob/master/demo_gif.gif width = 250, height = 300)
 
